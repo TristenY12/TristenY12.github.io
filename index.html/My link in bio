@@ -1,28 +1,77 @@
 <!DOCTYPE html>
 <html>
   <head>
+  <style>
+    body{
+      padding-top: 40px;
+      padding-bottom: 40px;
+    }
+  .banner-image{
+    width: 128px;
+    height: 128px;
+  object-fit: cover;
+  border-radius: 128px;
+  }
+  body {
+  background-color: #004643;
+}
+
+.name {
+  color: #fffffe;
+  display: flex;
+  justify-content: center;
+}
+
+.social-icons a {
+  color: #fffffe;
+  text-decoration: none;
+  display: flex;
+  justify-content: space-around;
+}
+
+.link {
+  background-color: #f9bc60;
+}
+
+.link a {
+  color: #001e1d;
+  text-decoration: none;
+  text-align: center;
+  flex-grow: 1;
+  padding: 5px;
+}
+  .items{
+    display: flex;
+    flex-direction: column;
+    gap: 30px;
+    max-width: 640px;
+  }
+  .banner{
+    display: flex;
+    justify-content: center;
+  }
+  </style>
   </head>
     <body>
       <div class="banner">
-        <img src="thumbnails/Tristen Young.jpg" alt="Tristen Young">
+        <img src="thumbnails/Tristen Young.jpg" alt="Tristen Young" class="banner-image">
       </div>
     <div class="name">
       Tristen Young
     </div>
    <div class="social-icons">
-    <a href="" target="_blank">
+    <a href="https://github.com/TristenY12" target="_blank">
       GitHub
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.linkedin.com/in/tristen-young-2b8499277" target="_blank">
       LinkedIn
     </a>
-    <a href="" target="_blank">
+    <a href="https://www.instagram.com/tristeny14/" target="_blank">
       Instagram
     </a>
-    <a href="" target="_blank">
+    <a href="https://twitter.com/Tristeny14" target="_blank">
       Twitter
     </a>
-   
   </div>
   </body>
 </html>
