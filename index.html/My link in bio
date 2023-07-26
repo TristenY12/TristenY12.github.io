@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html>
   <head>
+  </head>
     <body>
       <div class="banner">
         <img src="thumbnails/Tristen Young.jpg" alt="Tristen Young">
@@ -24,5 +25,4 @@
    
   </div>
   </body>
-  </head>
 </html>
