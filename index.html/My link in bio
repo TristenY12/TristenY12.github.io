@@ -73,5 +73,26 @@
       Twitter
     </a>
   </div>
-  </body>
+  <div class="link">
+    <img src="thumbnails/king von.jpg">
+    <a target="_blank"
+    href="https://www.youtube.com/@kingvon8062">
+  King Von
+  </a>
+  </div>
+  <div class="link">
+    <img src="thumbnails/lil durk.jpg">
+    <a target="_blank"
+    href="https://www.youtube.com/@LilDurk">
+   LilDurk
+  </a>
+  </div>
+  <div class="link">
+    <img src="thumbnails/lil baby.jpg">
+    <a target="_blank"
+    href="https://www.youtube.com/@LilBabyATL">
+  Lil Baby
+  </a>
+  </div>
+</body>
 </html>
